@@ -1,6 +1,4 @@
-# MSP430-Greenhouse
-
-## MSP430 based smart greenhouse application that can be controlled with c# desktop application
+# MSP430 Based Smart Greenhouse Application That Can Be Controlled With C# Desktop Application
 
 ## C# Desktop Application
 ![Picture](https://github.com/Ahmetozbaysar/MSP430-Greenhouse/blob/master/Picture_C%23.png)
