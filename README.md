@@ -1,5 +1,5 @@
 # MSP430-Greenhouse
-## Model image of the project will be added
+## Model image of the project will be added !!!
 
 ### MSP430 based smart greenhouse application that can be controlled with c# desktop application
 
